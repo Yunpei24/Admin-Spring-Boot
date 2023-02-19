@@ -1,0 +1,4 @@
+sn\admin\admin\ws\AppRoleController.class
+sn\admin\admin\dao\AppRoleRepository.class
+sn\admin\admin\entities\AppRoleEntity.class
+sn\admin\admin\AdminApplication.class
