@@ -1,7 +1,7 @@
 # Admin-Spring-Boot
 Projet Java avec Spring Boot
 
-Dans ce projet, nous utilisons le langage Java sur le frameWork IntelliJ et Spring Boot pour gérer la partie backEnd de notre application mobile.
+Dans ce projet, nous utilisons le langage Java sur le frameWork IntelliJ et Spring Boot (Spring Boot peut être défini comme un framework open source basé sur JAVA qui est utilisé pour créer un microservice développé par Pivotal Team, Spring Boot est très applicable pour construire une production prête et une application Spring inégalée) pour gérer la partie backEnd de notre application mobile.
 Nous avons utilisé le logiciel Postman pour vérifier si les requetes (GET all, GET login et POST save) en backEnd fonctionnent correctement et Swagger UI (sur le web) pour tester également la requete POST save.
 Dans Postman nous avons d'abord créé le Workspaces "Projet Ecole", ensuite la collection "admin" suivie du folder "roles" et enfin nous avons créé les requests nécessaires.
 Pour la base de données nous avons utilisé MySQL de Xampp.
