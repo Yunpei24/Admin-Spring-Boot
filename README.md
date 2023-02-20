@@ -2,7 +2,7 @@
 Projet Java avec Spring Boot
 
 Dans ce projet, nous utilisons le langage Java sur le frameWork IntelliJ et Spring Boot pour gérer la partie backEnd de notre application mobile.
-Nous avons utilisé le logiciel Postman pour vérifier si les requetes (GET all et GET login) en backEnd fonctionnent correctement et Swagger UI (sur le web) pour tester la requete POST save.
+Nous avons utilisé le logiciel Postman pour vérifier si les requetes (GET all, GET login et POST save) en backEnd fonctionnent correctement et Swagger UI (sur le web) pour tester également la requete POST save.
 Dans Postman nous avons d'abord créé le Workspaces "Projet Ecole", ensuite la collection "admin" suivie du folder "roles" et enfin nous avons créé les requests nécessaires.
 Pour la base de données nous avons utilisé MySQL de Xampp.
 
@@ -23,6 +23,9 @@ Pour la base de données nous avons utilisé MySQL de Xampp.
 
 # Tester la requete "POST save" (reponse du serveur)
 ![POST_save2](https://user-images.githubusercontent.com/98068452/219955487-ff5fd403-2cef-47a9-ab23-18ab0918e48f.PNG)
+
+# Tester la requete "POST save" avec Postman
+![POST_save_Postman](https://user-images.githubusercontent.com/98068452/220003879-38f832ff-be94-46fb-a54f-27ca8ab5578a.PNG)
 
 # La BD MySQL créée automatiquement par le programme Java
 ![adminBD](https://user-images.githubusercontent.com/98068452/219955760-c75ad23f-4644-41da-ab41-6a166e9077fc.PNG)
